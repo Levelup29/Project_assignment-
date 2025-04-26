@@ -1,7 +1,6 @@
 
 
 
-
 # 🚀 YOLOv11 Object Detection on Rock-Paper-Scissors Dataset
 This repository contains the code and documentation for a Google Colab lab assignment implementing YOLOv11 for real-time object detection using the Rock-Paper-Scissors dataset. The project covers environment setup, dataset acquisition and preprocessing via Roboflow, model training, inference, and performance evaluation.
 
@@ -52,7 +51,7 @@ After downloading, the dataset is organized in a YOLO-friendly format with separ
 - Save the best-performing model based on validation metrics.
 
 ### Google Colab Link
-[https://colab.research.google.com/drive/1abSUAGi4wbFBPxwdLBggklGR_YE9LPdj#scrollTo=JHKyDvq76GUG](https://colab.research.google.com/drive/1CQnmrrmCa-SEUQRAMBi9PY_bbly0AXbW?usp=sharing)
+https://colab.research.google.com/drive/1CQnmrrmCa-SEUQRAMBi9PY_bbly0AXbW?usp=sharing
 
 ### Dataset Link
 https://universe.roboflow.com/godstime-olukaejor-ys11d/drowsiness-detection-w65rx/dataset/2
